@@ -13,6 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
   "bugs": {
     "url": "https://github.com/linfat/webpack/issues"
   },
